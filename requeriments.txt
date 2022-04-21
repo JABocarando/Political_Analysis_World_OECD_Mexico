@@ -1,0 +1,7 @@
+pandas
+matplotlib
+plotly
+seaborn
+json
+plotly
+scipy
