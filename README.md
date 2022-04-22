@@ -12,9 +12,15 @@ April - 2022
 
 ## Notes
 
-The original database is "V-Dem-CY-Full+Others-v12.csv" with 27,380 rows and 4,170 columns
+- There are two Jupyter Notebooks files:
 
-In order to reduce the information, a database was created from the original one, which contains 27,380 rows and 24 columns called "V-Dem_Small.csv".
+"Democracy_small.ipynb" for static visualization on GitHub.
+
+"Democracy.ipynb" which you can display some graphs dynamically over time in Jupyter Notebook.
+
+- The original database is "V-Dem-CY-Full+Others-v12.csv" with 27,380 rows and 4,170 columns.
+
+- In order to reduce the information, a database was created from the original one, which contains 27,380 rows and 24 columns called "V-Dem_Small.csv".
 
 ## Content
 
@@ -32,4 +38,4 @@ Jesús Aparicio Bocarando
 ## Contact
 
 - +52 (228)8352974
-- jabocarando@gmail.com# Political_Analysis_World_OECD_Mexico
+- jabocarando@gmail.com
